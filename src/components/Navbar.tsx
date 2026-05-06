@@ -37,7 +37,7 @@ export default function Navbar({ onBookNow }: NavbarProps) {
         >
           <div className="relative h-14 w-14 flex items-center justify-center">
             <img 
-              src="https://res.cloudinary.com/dpfvx7duy/image/upload/v1778043846/Llmay%C3%A5_wuinnv.png" 
+              src="https://res.cloudinary.com/dpfvx7duy/image/upload/v1778045248/Llmay%C3%A5_ybm3um.png" 
               alt="Lamaya" 
               className="h-full w-full object-contain relative z-10 drop-shadow-[0_0_15px_rgba(212,175,55,0.3)] transition-transform duration-500 group-hover:scale-110" 
               onError={(e) => {
