@@ -1,0 +1,8 @@
+{
+  "name": "Lamaya",
+  "description": "A premium, high-end executive carwash and detailing experience with focus on precision and luxury care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
